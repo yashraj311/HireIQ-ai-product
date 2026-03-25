@@ -1,11 +1,11 @@
 # HireIQ-ai-product
-# HireIQ – AI Hiring Co-Pilot
+# HireIQ – AI Hiring Co-Pilot (Product Case Study)
 
 ## Problem
-Startups receive hundreds of resumes and manually screening them is time-consuming and inconsistent.
+Startups receive high volumes of resumes, making manual screening slow, inconsistent, and difficult to scale.
 
 ## Solution
-An AI-powered system that evaluates resumes and provides candidate scoring.
+An AI-powered system that automates resume evaluation and generates consistent candidate scoring.
 
 ## Features
 - Resume analysis
@@ -13,11 +13,12 @@ An AI-powered system that evaluates resumes and provides candidate scoring.
 - Automated workflow
 
 ## Product Thinking
-- Focused on reducing time-to-hire
-- Improved consistency in evaluation
+• Prioritized reducing time-to-hire as the primary success metric  
+• Designed for consistency to minimize bias in candidate evaluation  
+• Focused on scalability for high-volume hiring scenarios  
 
 ## Tech Stack
-OpenAI API, n8n, Lovable, Figma
+OpenAI API • n8n • Figma • Lovable
 
 ## Outcome
-Reduced manual effort and improved screening efficiency.
+Reduced manual screening effort and improved consistency in candidate evaluation.
