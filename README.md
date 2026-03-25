@@ -1,5 +1,5 @@
 # HireIQ-ai-product
-# Recruit-AI – AI Hiring Co-Pilot
+# HireIQ – AI Hiring Co-Pilot
 
 ## Problem
 Startups receive hundreds of resumes and manually screening them is time-consuming and inconsistent.
@@ -17,7 +17,7 @@ An AI-powered system that evaluates resumes and provides candidate scoring.
 - Improved consistency in evaluation
 
 ## Tech Stack
-OpenAI API, n8n, Figma
+OpenAI API, n8n, Lovable, Figma
 
 ## Outcome
 Reduced manual effort and improved screening efficiency.
