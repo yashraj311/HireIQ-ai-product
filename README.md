@@ -13,9 +13,9 @@ An AI-powered system that automates resume evaluation and generates consistent c
 - Automated workflow
 
 ## Product Thinking
-• Prioritized reducing time-to-hire as the primary success metric  
-• Designed for consistency to minimize bias in candidate evaluation  
-• Focused on scalability for high-volume hiring scenarios  
+- Prioritized reducing time-to-hire as the primary success metric  
+- Designed for consistency to minimize bias in candidate evaluation  
+- Focused on scalability for high-volume hiring scenarios  
 
 ## Tech Stack
 OpenAI API • n8n • Figma • Lovable
