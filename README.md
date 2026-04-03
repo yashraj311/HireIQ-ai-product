@@ -26,3 +26,8 @@ OpenAI API • n8n • Figma • Lovable
 
 ## 📊 Outcome
 Reduced manual screening effort and improved consistency in candidate evaluation.
+
+## 📸 Screenshots
+
+![Dashboard](./dashboard.png)
+![Flow](./flow.png)
