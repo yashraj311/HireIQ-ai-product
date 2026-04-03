@@ -29,5 +29,5 @@ Reduced manual screening effort and improved consistency in candidate evaluation
 
 ## 📸 Screenshots
 
-![Dashboard](./dashboard.png)
+![Dashboard](./Screenshot_17-3-2026_16521_www.youtube.com.jpeg)
 ![Flow](./flow.png)
