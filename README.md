@@ -1,4 +1,3 @@
-# HireIQ-ai-product
 # HireIQ – AI Hiring Co-Pilot (Product Case Study)
 
 ## 🚨 Problem
